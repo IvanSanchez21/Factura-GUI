@@ -11,7 +11,7 @@ import java.util.Set;
 
 /**
  *
- * @author Iván 
+ * @author Iván Sánchez
  */
 public class ControladorFactura {
     
